@@ -1,5 +1,5 @@
 Spanish: hola
 French: bonjour
 German: guten tag
-Italian: salve
+Italian: salvedo
 Chinese: nǐn hǎo
