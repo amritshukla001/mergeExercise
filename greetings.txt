@@ -1,0 +1,3 @@
+Spanish: hola
+French: bonjour
+German: guten tag
